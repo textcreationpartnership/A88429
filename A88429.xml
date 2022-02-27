@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Approved, good, and happy newes from Ireland: relating how the castle of Artaine was taken from the rebels, two of their captaines kild, and one taken prisoners by the protestants. With the arrivall of 2000 foot, and 300 horse from England. Also a great skirmish betweene the Protestants and the rebels at a place neere Feleston, wherein the English obtained great renowne and victory. Whereunto is added, a true relation of the great overthrow which the English gave the rebels before Drogheda sent in a letter bearing date the 27 of February. to Sir Robert King Knight at Cecill house in the Strand. Printed by order of Parliament.</title>
+            <author>Loftus, Edward, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88429</idno>
+            <idno type="STC">Wing L2830</idno>
+            <idno type="STC">Thomason E140_9</idno>
+            <idno type="STC">ESTC R19872</idno>
+            <idno type="EEBO-CITATION">99860758</idno>
+            <idno type="PROQUEST">99860758</idno>
+            <idno type="VID">156536</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156536)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E140[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Approved, good, and happy newes from Ireland: relating how the castle of Artaine was taken from the rebels, two of their captaines kild, and one taken prisoners by the protestants. With the arrivall of 2000 foot, and 300 horse from England. Also a great skirmish betweene the Protestants and the rebels at a place neere Feleston, wherein the English obtained great renowne and victory. Whereunto is added, a true relation of the great overthrow which the English gave the rebels before Drogheda sent in a letter bearing date the 27 of February. to Sir Robert King Knight at Cecill house in the Strand. Printed by order of Parliament.</title>
+                  <author>Loftus, Edward, 17th cent.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With title page woodcut.</note>
+                  <note>"A letter sent from Drogheda, to Sir Robert King, dated Febr. 27." is signed: Ed. Loftus ..</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156536:1"/>
+            <!-- PDF PAGE 21 -->
+            <pb facs="tcp:156536:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 21 -->
+            <p>Approved, Good, and happy Newes From <hi>IRELAND:</hi>
+            </p>
+            <p>Relating how the Caſtle of Artaine was taken from the Rebels, two of their Captaines kild, and one taken priſoners by the proteſtants.</p>
+            <p>With the arrivall of 2000 foot, and 300 horſe from <hi>England.</hi>
+            </p>
+            <p>Alſo a great skirmiſh betweene the Proteſtants and the Rebels at a place neere <hi>Feleſton,</hi> wherein the Engliſh obta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned great renow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and victory.</p>
+            <p>
+               <hi>Whereunto is added,</hi> A true relation of the great overthrow which the Engliſh gave the Rebels before <hi>Drogheda</hi> ſent in a Letter bearing date the 27 of <hi>February.</hi> to Sir <hi>Robert King</hi> Knight at Cecill houſe in the Strand.</p>
+            <p>Printed by Order of Parliament.</p>
+            <figure>
+               <p>Ireland</p>
+               <p>Proteſt.</p>
+               <p>Rebel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+            </figure>
+            <p>LONDON, Printed for <hi>Iohn Wright,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dispatch">
+            <pb facs="tcp:156536:2"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:156536:2"/>
+            <!-- PDF PAGE 22 -->
+            <head>The laſt newes from IRELAND, 7 <hi>March,</hi> 1641.</head>
+            <p>THe 10. of <hi>February</hi> our men went to <hi>Artain,</hi> againſt a caſtle ſo called, which had be<g ref="char:EOLhyphen"/>fore done ſome miſchiefe, to ſome of our men, the enemy being in it, But the ene<g ref="char:EOLhyphen"/>my fled before our ſecond comming, and left the Caſtle; and a garriſon was left in it by us.</p>
+            <p>Upon the 11th. wee had newes, that the enemy was intrenching at a place called <hi>Soughing</hi> Towne, ſome 6. Miles ſouth of our City, and ſome 2000. Foot, and 200. Horſe went out againſt them; The Lord <hi>Lambart</hi> commanding in chiefe; A ſmall battell they had, but the Enemy ſtood not, on the Enemies ſide ſome 70 or more was killed, and but one hurt on our ſide, and ſo came home that night, and brought home one of the Rebells Captaines and two more of the enemies Cap<g ref="char:EOLhyphen"/>taines ſlaine, many Letters of treaſon were found a<g ref="char:EOLhyphen"/>bout him that was taken.</p>
+            <p>On the 13. a man was brought to our City being taken by ſome of our ſcattering men ſcouting about our City, who confeſt without conſtraint, that he had killed an <hi>Engliſhwoman</hi> at a place called <hi>Leſlipeſom,</hi> 6. Miles Weſt of our City, and waſhed his hands in her bloud, being ſet on by the popiſh Prieſts ſo to doe, hee was preſently hanged, but dyed with much repen<g ref="char:EOLhyphen"/>tance and a proteſtant, which few do.</p>
+            <p>
+               <pb facs="tcp:156536:3"/>
+               <!-- PDF PAGE 23 -->
+Upon the 19. and 20. Arrived heere from you 2000 Foot and 300 horſe but little or no money, which made us poore of the City fare harder then before; which was to hard.</p>
+            <p>Upon the 21. Wee had knowledge that our Ships ſent with vittaile to relieve <hi>Tredath</hi> had got ſafely in, and in ſpight of the enemy, who had chayned up the harbour, but our men brake the Chaine, and got in, notwithſtanding. And publike thankes was with us for that happineſſe, for in ſuch a great ſtrait was that City, as to eat Horſe fleſh, as letters from my friends from the City to mee teſtified; Alſo Captaine <hi>Bartlet</hi> who was the Sea Captaine, in his comming home met with ſome fore ſmall Boats or Barkes of the <hi>Wexford</hi> men, going toward the enemy in the North to carry Lenten proviſion, but hee ſpoyled their deſigne in ſinking moſt or all of them, About the ſame time we had alſo Letters out of <hi>Munſter,</hi> that all that part of the Countrey was roſe in Rebellion being carried out by the Lord <hi>Muſcry,</hi> and Lord <hi>Roch,</hi> who had profeſ<g ref="char:EOLhyphen"/>ſed much fidellity, and many deceitfull promiſes had paſt to the preſident of that Province, till they ſaw their owne advantage, And it is reported they are not leſſe then 20000 ſtrong, beſt appointed of all the Rebels, for indeed this Lord <hi>Muſcry</hi> is the moſt mo<g ref="char:EOLhyphen"/>nied man, of all the <hi>Iriſh</hi> Lords, So that now not one place in <hi>Ireland,</hi> but is in Rebellion, for the Lord of <hi>Clanrickard,</hi> ſtands as ſome thinke Neuter, does no<g ref="char:EOLhyphen"/>thing at all, or cannot do any thing, or will not, But wee heare that our Preſident of <hi>Munſter</hi> was forced to betake himſelfe to the ſtrong hold of <hi>Corke,</hi> and the Lord of <hi>Corke</hi> betooke himſelfe to <hi>Yoyhall,</hi> which are
+<pb facs="tcp:156536:3"/>
+               <!-- PDF PAGE 23 -->reported both to be beſiged by the enemy.</p>
+            <p>Upon the 23. of this moneth, newes was that at a place neere <hi>Feleſton</hi> ſix miles from us, a great multi<g ref="char:EOLhyphen"/>tude of the enemies had ſtrongly fortifide themſelves, and it is well fortifide by nature, having alſo a ſtrong Caſtle in it; Some 3000 of our men went againſt it, horſe and foote, Our Lord generall the Earle of <hi>Or<g ref="char:EOLhyphen"/>mond</hi> himſelfe went, as did Sir <hi>Charles Coot,</hi> Sir <hi>Symond Ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>court,</hi> and many more, <hi>Iohn Moore</hi> being one of the Soldiers, and upon the forelorne hope. had both his left and right hand man killed, he told me that our generall himſelfe, led up the forlorne hope, with ma<g ref="char:EOLhyphen"/>ny words of Comfort to them, able to make any man fight to ſee ſuch a man as he goe in ſuch danger: For the enemy had a great wood to ſhelter them beſide tren<g ref="char:EOLhyphen"/>ches, but our men after 2 houres Battell, beat them from their Trench, and from the wood, killing ſome 80 of them, For all that advantage but 7 of our men was killed, but that we loſt one Captaine <hi>Rochford,</hi> a man of ſuch note, that never more was any man be<g ref="char:EOLhyphen"/>wayled; For all the good and valliant parts of a Soldi<g ref="char:EOLhyphen"/>er was in him, in this bout Sir <hi>Symond Harcourts</hi> Regi<g ref="char:EOLhyphen"/>ment, behaved themſelves valliantly but for the Caſtle our men were forced to returne home without taking it, having nothing but field peeces with them, the way being to rotten to beare greater as yet; many more of the enemies had bin ſlaine but that the wood defended them, ſo that the Trees tooke off all that was ſent to them in this Caſtle is thought to be much wealth beſides all that have bin great men of the Re<g ref="char:EOLhyphen"/>bels. But our men will not ſo leave it, but will againe try their forces againſt it ſhortly.</p>
+            <p>
+               <pb facs="tcp:156536:4"/>
+               <!-- PDF PAGE 24 -->
+As yeſterday our men came home, yet tis to be feard that a famine is like to be in our City, in that ſtill men come to us and proviſion is ſhort, and none of yours that come to us bring any vittailes, great taxes are upon us, more then can be borne, He that had Butter, and Cheeſe, and Cloath at between 6 and 14 Shillings a yard here ſent by any out of London,, might make a good trade of it; Cheſhire cheeſe is ſould here for ſix pence a pound already; Some of your Londoners are come hither (acquaintance of mine) that will ſend for ſuch things, for great profit may be made by them, and quicke returne.</p>
+         </div>
+         <div type="letter">
+            <head>A letter ſent from <hi>Droheda,</hi> to Sir <hi>Robert King,</hi> dated <hi>Febr.</hi> 27.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>IN my laſt Letter, I ſignified to you the difficul<g ref="char:EOLhyphen"/>ties which were like to befall us by the relee<g ref="char:EOLhyphen"/>ving of <hi>Droheda,</hi> but God by his infinite mercy hath freed us (I may ſay miraculouſly) from that hazzard: for when our men there were driven to that extremity to eat horſe-fleſh, Sir <hi>Henry Tichbourne</hi> ſallied out of the Towne with only fourty Musketiers, and fourty Horſe, and beat off foure hun<g ref="char:EOLhyphen"/>dred of the enemies, killed above threeſcore of them, recovered fourſcore Cowes and Oxen, and two hun<g ref="char:EOLhyphen"/>dred Sheep; burned foure Townes, and brought
+<pb facs="tcp:156536:4"/>
+               <!-- PDF PAGE 24 -->home two of their Colours: Beſides, I muſt relate unto you Gods aboundant goodneſſe unto us, in that the night before the reliefe and ſuccours which we ſent by Sea from <hi>Dublin</hi> to them, ſhould have entred into the Harbour of <hi>Droheda,</hi> which was ſtrongly fen<g ref="char:EOLhyphen"/>ced over with a Chaine and ſeverall boates, there happened a ſtorm which broke their chainer, and gave our men ſo great a paſſage, as with little diffi<g ref="char:EOLhyphen"/>culty they came ſafely to the Towne. The Rebels were gathered at <hi>Kilſhalgham</hi> within ſeven miles of <hi>Dublin,</hi> above two thouſand men, where they were ſetled in a very ſtrong wood. My Lord of <hi>Ormond</hi> carried out part of our Army, and beat them out of that great ſtrength (for they would not come into the Champaine) and killed above a hundred of them, without any conſiderable loſſe of our ſide, only Cap<g ref="char:EOLhyphen"/>taine <hi>Iames Rochfort,</hi> a moſt gallant and couragious Gentleman. This was an act of great bravery, where<g ref="char:EOLhyphen"/>in Sir <hi>Charles Coote</hi> did, (as he doth alwaies) beyond expectation, expoſing his perſon to as much danger as any man living could; and in truth he is a gallant man, full of courage and good affections, and de<g ref="char:EOLhyphen"/>ſerves great encouragement from that ſide. Our ſoul<g ref="char:EOLhyphen"/>diours are in great want of money, which cauſes a ge<g ref="char:EOLhyphen"/>nerall want of all other neceſſaries, yet notwithſtan<g ref="char:EOLhyphen"/>ding God hath infuſed ſuch courage into them (for undoubtedly it is his worke) that they thinke there is no danger ſo great, but they may attempt it.</p>
+            <p>Colonell <hi>Munke</hi> is arrived here with my Lord Lieutenants Regiment of fifteen hundred foot, and Sir <hi>Richard Greevill</hi> with neere foure hundred Horſe, which puts much heart into us, and makes us looke
+<pb facs="tcp:156536:5"/>
+               <!-- PDF PAGE 25 -->big upon our neighbours, yet we grieve we cannot be able to releeve our friends in other parts, but I hope when our full ſuccours ſhall come, we ſhall not only defend this place, but adde comfort to our poore diſtreſſed friends abroad.</p>
+            <p>The enemy though their numbers be very great, even beyond beliefe, yet their hearts begin to faint and I believe they repent their furious madneſſe.</p>
+            <p>If my brother be in <hi>London,</hi> I pray you impart this Letter to him, I would hae written to him, but that I thought he was at <hi>Cheſter,</hi> or on his way thither: By the next he ſhall heare from me at large, and I ſhall likewiſe trouble you.</p>
+            <p>I muſt now only tell you, that I thank you for your care of thoſe things which concerne me, and I am, Sir,</p>
+            <closer>
+               <dateline>
+                  <date>Feb. 27. 1641.</date>
+               </dateline> 
+               <signed>Your moſt affectionate ſervant, <hi>Ed. Loftus,</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Martii</hi> 7<hi rend="sup">mo</hi>.</date>
+               </dateline>
+            </opener>
+            <p>'Tis this day Ordered forthwith, that this Letter be publiſhed in print.</p>
+            <closer>
+               <signed>
+                  <hi>H. Elſing.</hi> Cler. <hi>P. D. Com.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
